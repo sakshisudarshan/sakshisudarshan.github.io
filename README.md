@@ -70,4 +70,4 @@ Competed in interschool games and government-organized tournaments, earning nume
 
 ---
 
-Feel free to connect with me to discuss potential opportunities, collaborations, or just to say hi!
+Feel free to connect with me to discuss potential opportunities and collaborations!
