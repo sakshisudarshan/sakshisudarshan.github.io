@@ -7,8 +7,8 @@ Hello! I am **Sakshi Sudarshan**, a Computer Science Engineering student at **RN
 
 ## 📚 Education
 - **2021 - 2025**: B.E. in Computer Science and Engineering at **RNS Institute of Technology** (CGPA: 9)
-- **2021**: Class 12th from **Sri Kumaran Children’s Home Composite Junior College (PU)** (PCMB, 88%)
-- **2019**: Class 10th from **Sri Kumaran Children’s Home (State)** (89.6%)
+- **2021**: Class 12th from **Sri Kumaran Children’s Home Composite Junior College (PU)** 
+- **2019**: Class 10th from **Sri Kumaran Children’s Home (State)** 
 
 ---
 
