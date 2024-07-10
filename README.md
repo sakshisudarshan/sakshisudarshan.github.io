@@ -25,7 +25,7 @@ Hello! I am **Sakshi Sudarshan**, a Computer Science Engineering student at **RN
 - **Version Control**: 
   - Familiar with Git
 - **Frameworks**: 
-  - Basics of Spring Boot
+  - Basics of Spring Boot, Django
 
 ---
 
