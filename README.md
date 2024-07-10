@@ -1,7 +1,7 @@
 # 🌟 Sakshi Sudarshan's Portfolio
 
 ## 🎓 Introduction
-Hello! I am **Sakshi Sudarshan**, a Computer Science Engineering student at **RNS Institute of Technology**. I am passionate about software development with a strong foundation in Java and basic knowledge of Python and C.
+Hello! I am **Sakshi Sudarshan**, currently pursuing a degree in Computer Science Engineering at  **RNS Institute of Technology**. I am passionate about software development, with a strong foundation in Java and a solid understanding of Python and C.
 
 ---
 
