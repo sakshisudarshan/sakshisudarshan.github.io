@@ -1,7 +1,7 @@
 # 🌟 Sakshi Sudarshan's Portfolio
 
 ## 🎓 Introduction
-Hello! I am **Sakshi Sudarshan**, currently working as an Intern at **Marelli (India) Private Ltd** pursuing a degree in Computer Science Engineering at  **RNS Institute of Technology**. I am passionate about software development, with a strong foundation in Java and a solid understanding of Python, C and C++.
+Hello! I am **Sakshi Sudarshan**, currently working as an Intern at **Marelli (India) Private Limited** pursuing a degree in Computer Science Engineering at  **RNS Institute of Technology**. I am passionate about software development, with a strong foundation in Java and a solid understanding of Python, C and C++.
 
 ---
 
