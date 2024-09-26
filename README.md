@@ -1,12 +1,12 @@
 # 🌟 Sakshi Sudarshan's Portfolio
 
 ## 🎓 Introduction
-Hello! I am **Sakshi Sudarshan**, currently pursuing a degree in Computer Science Engineering at  **RNS Institute of Technology**. I am passionate about software development, with a strong foundation in Java and a solid understanding of Python and C.
+Hello! I am **Sakshi Sudarshan**, currently working as an Intern at **Marelli (India) Private Ltd** pursuing a degree in Computer Science Engineering at  **RNS Institute of Technology**. I am passionate about software development, with a strong foundation in Java and a solid understanding of Python, C and C++.
 
 ---
 
 ## 📚 Education
-- **2021 - 2025**: B.E. in Computer Science and Engineering at **RNS Institute of Technology** (CGPA: 9)
+- **2021 - 2025**: B.E. in Computer Science and Engineering at **RNS Institute of Technology** (CGPA: 9.05)
 - **2021**: Class 12th from **Sri Kumaran Children’s Home Composite Junior College (PU)** 
 - **2019**: Class 10th from **Sri Kumaran Children’s Home (State)** 
 
@@ -17,6 +17,7 @@ Hello! I am **Sakshi Sudarshan**, currently pursuing a degree in Computer Scienc
   - Java (Proficient)
   - Python (Basic)
   - C (Basic)
+  - C++
 - **Problem-Solving Skills**: 
   - Strong problem-solving abilities
   - Good understanding of data structures and algorithms in Java
