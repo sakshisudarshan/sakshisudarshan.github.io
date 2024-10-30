@@ -67,7 +67,7 @@ Competed in interschool games and government-organized tournaments, earning nume
 ## 📞 Contact
 - **GitHub**: [github.com/sakshisudarshan](https://github.com/sakshisudarshan)
 - **LinkedIn**: [linkedin.com/in/sakshi-sudarshan](https://www.linkedin.com/in/sakshi-sudarshan)
-- **Email**: [1rn21cs133.sakshisudarshan@rnsit.ac.in](mailto:1rn21cs133.sakshisudarshan@rnsit.ac.in)
+- **Email**: [sakshisudarshan4@gmail.com](mailto:sakshisudarshan4@gmail.com)
 
 ---
 
